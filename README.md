@@ -3,14 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamadbilalahmed&label=Profile%20views&color=0e75b6&style=flat" alt="muhamadbilalahmed" /> </p>
 
+<p>Passionate Frontend Developer with a flair for crafting immersive digital experiences that captivate and engage users. Armed with a blend of creativity and technical expertise, I thrive on transforming design concepts into pixel-perfect, responsive web applications. With a keen eye for detail and a commitment to clean, efficient code, I continuously seek innovative solutions to push the boundaries of user interface design. Let's collaborate and bring visions to life, one line of code at a time.</p> 
+
+
 - 🌱 I’m currently learning **TYPESCRIPT AND NODEJS.**
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT and REACT.**
 
 - 📫 How to reach me **bilalahmedm144@gmail.com**-
   
-<p>Passionate Frontend Developer with a flair for crafting immersive digital experiences that captivate and engage users. Armed with a blend of creativity and technical expertise, I thrive on transforming design concepts into pixel-perfect, responsive web applications. With a keen eye for detail and a commitment to clean, efficient code, I continuously seek innovative solutions to push the boundaries of user interface design. Let's collaborate and bring visions to life, one line of code at a time.</p> 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-bilal-1290442aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-bilal-1290442aa/" height="30" width="40" /></a>
