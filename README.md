@@ -8,8 +8,8 @@
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT and REACT.**
 
 - 📫 How to reach me **bilalahmedm144@gmail.com**-
-
-  <p>Passionate Frontend Developer with a flair for crafting immersive digital experiences that captivate and engage users. Armed with a blend of creativity and technical expertise, I thrive on transforming design concepts into pixel-perfect, responsive web applications. With a keen eye for detail and a commitment to clean, efficient code, I continuously seek innovative solutions to push the boundaries of user interface design. Let's collaborate and bring visions to life, one line of code at a time.</p> 
+  
+<p>Passionate Frontend Developer with a flair for crafting immersive digital experiences that captivate and engage users. Armed with a blend of creativity and technical expertise, I thrive on transforming design concepts into pixel-perfect, responsive web applications. With a keen eye for detail and a commitment to clean, efficient code, I continuously seek innovative solutions to push the boundaries of user interface design. Let's collaborate and bring visions to life, one line of code at a time.</p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
